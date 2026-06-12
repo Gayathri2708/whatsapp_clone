@@ -1,0 +1,8 @@
+# OS
+.DS_Store
+
+# Editor / tooling config (local-only)
+.idea/
+.vscode/
+.claude/
+CLAUDE.md
